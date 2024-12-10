@@ -1,0 +1,1 @@
+console.log('Example 3 inside the folder src');
